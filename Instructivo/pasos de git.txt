@@ -4,6 +4,10 @@ EN LA CONSOLA O TERMINAL
 2- GIT ADD. O GIT ADD "NOMBRE DE ARCHIVO"
 3- GIT COMMIT -M "AGREGANDO los pASOS DE GIT"
 4- GIT PUSH ORIGIN MAIN
+
 lo quiero modificar y 
 no  se como catzo hacerlo
 git  the merd
+
+Hecho
+
