@@ -6,3 +6,4 @@ EN LA CONSOLA O TERMINAL
 4- GIT PUSH ORIGIN MAIN
 lo quiero modificar y 
 no  se como catzo hacerlo
+git  the merd
