@@ -1,0 +1,2 @@
+merge para unir
+pull request para pedir permiso para hacer cambios
